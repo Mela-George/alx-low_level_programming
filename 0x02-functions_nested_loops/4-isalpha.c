@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpha - Return 1 if input is uppercase/lowercase letter.Return 0 otherwise
+ * _isalpha - Return 1 if input is uppercase/lowercase.Return 0 otherwise
  *
  * @c: The character is in ASCII code
  *

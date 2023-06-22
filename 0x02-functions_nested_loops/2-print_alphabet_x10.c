@@ -2,7 +2,7 @@
 /**
  * print_alphabet_x10 - prints ten times the alphabet in lowercase and new line
  *
- * Return: Always 0 (Success)
+ * Return: Always 0lphabet_x10.c (Success)
  */
 void print_alphabet_x10(void)
 {
